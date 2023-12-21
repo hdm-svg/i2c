@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Dec 18 18:27:54 2023
+# Process ID: 16588
+# Current directory: F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/newvivadoshit/I2C_LAST/I2C_LAST.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/newvivadoshit/I2C_LAST/I2C_LAST.runs/impl_1/top.vdi
+# Journal file: F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/newvivadoshit/I2C_LAST/I2C_LAST.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

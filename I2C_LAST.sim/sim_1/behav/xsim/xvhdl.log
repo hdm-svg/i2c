@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/year4/ttcs/thefinglasti2c/i2c_master.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'i2c_master'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/newvivadoshit/thelastfinal_onelasttime_i2c/thelastfinal_onelasttime_i2c.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/newvivadoshit/thelastfinal_onelasttime_i2c/thelastfinal_onelasttime_i2c.srcs/sim_1/new/test_i2c.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_i2c'

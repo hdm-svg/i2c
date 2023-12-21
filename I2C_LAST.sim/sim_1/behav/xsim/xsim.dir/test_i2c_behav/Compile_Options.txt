@@ -1,0 +1,1 @@
+-wto "b8f5c81552c847adba36632e8d1539ff" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "test_i2c_behav" "xil_defaultlib.test_i2c" -log "elaborate.log" 

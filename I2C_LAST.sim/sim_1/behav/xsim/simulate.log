@@ -1,0 +1,7 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+ERROR: Index 20 out of bound 0 to 19
+Time: 101535010 ns  Iteration: 2  Process: /test_i2c/IC/IC1/line__43
+  File: F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/year4/ttcs/thefinglasti2c/i2c_master.vhd
+
+HDL Line: F:/Hieu/Onedrive/OneDrive - actvn.edu.vn/year4/ttcs/thefinglasti2c/i2c_master.vhd:166
