@@ -5,7 +5,7 @@ Work at 10khz
   
 **INCLUDE:**  
 - [x] A simple I2C master implement with a LCD 16x2 controller  
-- [x] A clock adapter to make the 200khz clock
+- [x] A clock adapter to generate the 200khz clock
 - [x] A top level module  
   
 > Not original, composed through a lot of internet and YouTube research
